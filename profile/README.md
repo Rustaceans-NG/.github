@@ -1,6 +1,6 @@
 # Rustaceans - NG👋
 
-Welcome to Rustaceans - NG! We are a community helping Rust engineers and backend developers connect, share knowledge, and grow their skills. Our discussions and collaborations primarily take place on WhatsApp. Whether you are an experienced Rustacean or just starting out, you are welcome here.
+Welcome to Rustaceans - NG! We are a community focused on developing our skills. Our discussions and collaborations primarily take place on WhatsApp. Whether you are an experienced Rust Developer/Engineer or just starting out, you are welcome here.
 
 ## Useful Resources 📚
 
